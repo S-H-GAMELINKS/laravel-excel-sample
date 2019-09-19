@@ -95,5 +95,7 @@
                 </div>
             </div>
         </div>
+
+        <a href="/users/export" class="btn btn-primary">User Export</a>
     </body>
 </html>
