@@ -20,3 +20,5 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('users/export/', 'HomeController@export');
+
+Route::get('users/import/', 'HomeController@import');
